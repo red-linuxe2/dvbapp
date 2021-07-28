@@ -1,5 +1,5 @@
 DESCRIPTION = "Enigma2 is an experimental, but useful framebuffer-based frontend for DVB functions"
-MAINTAINER = "OpenATV"
+MAINTAINER = "OpenVuplus"
 LICENSE = "GPLv2"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=c9e255efa454e0155c1fd758df7dcaf3"
 
